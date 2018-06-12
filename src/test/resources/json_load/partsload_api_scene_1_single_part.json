@@ -1,0 +1,18 @@
+{
+  "values": [
+    {
+      "partId": "FM-WHEEL-20170131",
+      "partName": "Ford Mustang Wheel",
+      "characteristics": {
+        "values": [
+          {
+            "key": "A",
+            "keyName": "Alloy Billet",
+            "value": "17L",
+            "valueText": "17 inch Low profile"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "values": [
+    {
+      "partId": "FOUR_PAGE_14",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/FOUR_PAGE_14"
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_20",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/FOUR_PAGE_20"
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_16",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/FOUR_PAGE_16"
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_19",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/FOUR_PAGE_19"
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_11",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/FOUR_PAGE_11"
+      }
+    }
+  ],
+  "_links": [
+    {
+      "href": "/parts?pageNumber=1&characteristics=4_PAGE|FOUR",
+      "method": "first",
+      "rel": true
+    },
+    {
+      "href": "/parts?pageNumber=3&characteristics=4_PAGE|FOUR",
+      "method": "previous",
+      "rel": true
+    },
+    {
+      "href": "/parts?pageNumber=4&characteristics=4_PAGE|FOUR",
+      "method": "self",
+      "rel": true
+    },
+    {
+      "href": "/parts?pageNumber=4&characteristics=4_PAGE|FOUR",
+      "method": "last",
+      "rel": true
+    }
+  ]
+}

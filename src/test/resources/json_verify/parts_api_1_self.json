@@ -1,0 +1,51 @@
+{
+  "values": [
+    {
+      "partId": "PAGE_1_3",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/PAGE_1_3"
+      }
+    },
+    {
+      "partId": "PAGE_1_1",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/PAGE_1_1"
+      }
+    },
+    {
+      "partId": "PAGE_1_2",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/PAGE_1_2"
+      }
+    },
+    {
+      "partId": "PAGE_1_5",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/PAGE_1_5"
+      }
+    },
+    {
+      "partId": "PAGE_2_1",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/PAGE_2_1"
+      }
+    }
+  ],
+  "_links": [
+    {
+      "href": "/parts?pageNumber=1&characteristics=PAGE_BOUNDARY|FIVE",
+      "method": "self",
+      "rel": true
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "values": [
+    {
+      "partId": "PAGE_1_1",
+      "partName": "SC12MC HIGH PERF C1 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "THREE",
+            "valueText": "1 or 2"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FOUR",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FIVE",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "SIX",
+            "valueText": "1"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "PAGE_1_2",
+      "partName": "SC12MC HIGH PERF C1 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "THREE",
+            "valueText": "2 or 3"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FOUR",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FIVE",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "SIX",
+            "valueText": "1"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "PAGE_1_3",
+      "partName": "SC12MC HIGH PERF C1 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "THREE",
+            "valueText": "3 or 4"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FOUR",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FIVE",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "SIX",
+            "valueText": "1"
+          }
+        ]
+      }
+    }	
+  ]
+}

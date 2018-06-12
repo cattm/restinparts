@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "partId": "Duplicate ID",
+      "partName": "First",
+      "characteristics": {
+        "values": [
+          {
+            "key": "string",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "one"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "Duplicate ID",
+      "partName": "Second",
+      "characteristics": {
+        "values": [
+          {
+            "key": "string",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "two"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "Nearly Duplicate ID",
+      "partName": "First",
+      "characteristics": {
+        "values": [
+          {
+            "key": "string",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "one"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "Almost Duplicate ID",
+      "partName": "First",
+      "characteristics": {
+        "values": [
+          {
+            "key": "string",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "one"
+          }
+        ]
+      }
+    }
+  ]
+}

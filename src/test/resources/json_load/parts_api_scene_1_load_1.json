@@ -1,0 +1,30 @@
+{
+  "values": [
+    {
+      "partId": "SINGLE",
+      "partName": "SC12MC HIGH PERF C1 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "SINGLE_KEY",
+            "keyName": "Foundry",
+            "value": "ONE",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FOUR",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "SIX",
+            "valueText": "1"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "values": [
+    {
+      "partId": "LARGE_PAGE_03",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/LARGE_PAGE_03"
+      }
+    },
+    {
+      "partId": "LARGE_PAGE_04",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/LARGE_PAGE_04"
+      }
+    },
+    {
+      "partId": "LARGE_PAGE_05",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/LARGE_PAGE_05"
+      }
+    },
+    {
+      "partId": "LARGE_PAGE_01",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/LARGE_PAGE_01"
+      }
+    },
+    {
+      "partId": "LARGE_PAGE_06",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/LARGE_PAGE_06"
+      }
+    }
+  ],
+  "_links": [
+    {
+      "href": "/parts?pageNumber=1&characteristics=LARGE_PAGE|LARGE_02",
+      "method": "first",
+      "rel": true
+    },
+    {
+      "href": "/parts?pageNumber=1&characteristics=LARGE_PAGE|LARGE_02",
+      "method": "self",
+      "rel": true
+    },
+    {
+      "href": "/parts?pageNumber=2&characteristics=LARGE_PAGE|LARGE_02",
+      "method": "next",
+      "rel": true
+    },
+    {
+      "href": "/parts?pageNumber=16&characteristics=LARGE_PAGE|LARGE_02",
+      "method": "last",
+      "rel": true
+    }
+  ]
+}

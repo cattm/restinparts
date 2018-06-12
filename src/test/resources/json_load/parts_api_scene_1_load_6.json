@@ -1,0 +1,1124 @@
+{
+  "values": [
+    {
+      "partId": "LARGE_PAGE_01",
+      "partName": "SC12MC HIGH PERF CL01 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP01"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_02",
+      "partName": "SC12MC HIGH PERF CL02 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP02"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_03",
+      "partName": "SC12MC HIGH PERF CL03 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP03"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_04",
+      "partName": "SC12MC HIGH PERF CL04 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP04"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_05",
+      "partName": "SC12MC HIGH PERF CL05 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP05"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_06",
+      "partName": "SC12MC HIGH PERF CL06 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP06"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_07",
+      "partName": "SC12MC HIGH PERF CL07 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP07"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_08",
+      "partName": "SC12MC HIGH PERF CL08 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP08"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_09",
+      "partName": "SC12MC HIGH PERF CL09 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP09"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_10",
+      "partName": "SC12MC HIGH PERF CL10 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP10"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_11",
+      "partName": "SC12MC HIGH PERF CL11 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP11"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_12",
+      "partName": "SC12MC HIGH PERF CL12 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP12"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_13",
+      "partName": "SC12MC HIGH PERF CL13 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP13"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_14",
+      "partName": "SC12MC HIGH PERF CL14 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP14"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_15",
+      "partName": "SC12MC HIGH PERF CL15 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP15"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_16",
+      "partName": "SC12MC HIGH PERF CL16 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP16"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_17",
+      "partName": "SC12MC HIGH PERF CL17 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP17"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_18",
+      "partName": "SC12MC HIGH PERF CL18 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP18"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_19",
+      "partName": "SC12MC HIGH PERF CL19 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP19"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_20",
+      "partName": "SC12MC HIGH PERF CL20 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP20"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "LARGE_PAGE_21",
+      "partName": "SC12MC HIGH PERF CL21 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP21"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_22",
+      "partName": "SC12MC HIGH PERF CL22 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP22"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_23",
+      "partName": "SC12MC HIGH PERF CL23 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP23"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_24",
+      "partName": "SC12MC HIGH PERF CL24 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP24"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_25",
+      "partName": "SC12MC HIGH PERF CL25 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP25"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_26",
+      "partName": "SC12MC HIGH PERF CL26 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP26"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_27",
+      "partName": "SC12MC HIGH PERF CL27 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP27"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_28",
+      "partName": "SC12MC HIGH PERF CL28 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP28"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_29",
+      "partName": "SC12MC HIGH PERF CL29 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP29"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_30",
+      "partName": "SC12MC HIGH PERF CL30 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP30"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_31",
+      "partName": "SC12MC HIGH PERF CL31 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP31"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_32",
+      "partName": "SC12MC HIGH PERF CL32 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP32"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_33",
+      "partName": "SC12MC HIGH PERF CL33 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP33"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_34",
+      "partName": "SC12MC HIGH PERF CL34 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP34"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_35",
+      "partName": "SC12MC HIGH PERF CL35 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP35"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_36",
+      "partName": "SC12MC HIGH PERF CL36 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP36"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_37",
+      "partName": "SC12MC HIGH PERF CL37 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP37"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_38",
+      "partName": "SC12MC HIGH PERF CL38 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP38"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_39",
+      "partName": "SC12MC HIGH PERF CL39 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP39"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_40",
+      "partName": "SC12MC HIGH PERF CL40 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP40"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "LARGE_PAGE_41",
+      "partName": "SC12MC HIGH PERF CL41 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP41"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_42",
+      "partName": "SC12MC HIGH PERF CL42 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP42"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_43",
+      "partName": "SC12MC HIGH PERF CL43 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP43"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_44",
+      "partName": "SC12MC HIGH PERF CL44 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP44"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_45",
+      "partName": "SC12MC HIGH PERF CL45 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP45"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_46",
+      "partName": "SC12MC HIGH PERF CL46 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP46"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_47",
+      "partName": "SC12MC HIGH PERF CL47 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP47"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_48",
+      "partName": "SC12MC HIGH PERF CL48 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP48"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_49",
+      "partName": "SC12MC HIGH PERF CL49 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP49"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_50",
+      "partName": "SC12MC HIGH PERF CL50 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP50"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_51",
+      "partName": "SC12MC HIGH PERF CL51 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP51"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_52",
+      "partName": "SC12MC HIGH PERF CL52 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP52"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_53",
+      "partName": "SC12MC HIGH PERF CL53 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP53"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_54",
+      "partName": "SC12MC HIGH PERF CL54 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP54"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_55",
+      "partName": "SC12MC HIGH PERF CL55 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP55"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_56",
+      "partName": "SC12MC HIGH PERF CL56 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP56"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_57",
+      "partName": "SC12MC HIGH PERF CL57 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP57"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_58",
+      "partName": "SC12MC HIGH PERF CL58 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP58"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_59",
+      "partName": "SC12MC HIGH PERF CL59 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP59"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_60",
+      "partName": "SC12MC HIGH PERF CL60 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP60"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "LARGE_PAGE_61",
+      "partName": "SC12MC HIGH PERF CL61 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP61"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_62",
+      "partName": "SC12MC HIGH PERF CL62 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP62"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_63",
+      "partName": "SC12MC HIGH PERF CL63 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP63"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_64",
+      "partName": "SC12MC HIGH PERF CL64 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP64"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_65",
+      "partName": "SC12MC HIGH PERF CL65 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP65"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_66",
+      "partName": "SC12MC HIGH PERF CL66 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP66"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_67",
+      "partName": "SC12MC HIGH PERF CL67 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP67"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_68",
+      "partName": "SC12MC HIGH PERF CL68 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP68"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_69",
+      "partName": "SC12MC HIGH PERF CL69 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP69"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_70",
+      "partName": "SC12MC HIGH PERF CL70 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP70"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_71",
+      "partName": "SC12MC HIGH PERF CL71 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP71"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_72",
+      "partName": "SC12MC HIGH PERF CL72 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP72"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_73",
+      "partName": "SC12MC HIGH PERF CL73 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP73"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_74",
+      "partName": "SC12MC HIGH PERF CL74 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP74"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_75",
+      "partName": "SC12MC HIGH PERF CL75 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP75"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_76",
+      "partName": "SC12MC HIGH PERF CL76 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP76"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_77",
+      "partName": "SC12MC HIGH PERF CL77 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP77"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_78",
+      "partName": "SC12MC HIGH PERF CL78 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP78"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_79",
+      "partName": "SC12MC HIGH PERF CL79 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP79"
+          }
+        ]
+      }
+    },
+	{
+      "partId": "LARGE_PAGE_80",
+      "partName": "SC12MC HIGH PERF CL80 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technology",
+            "value": "LARGE_02",
+            "valueText": "LP80"
+          }
+        ]
+      }
+    }
+  ]
+}

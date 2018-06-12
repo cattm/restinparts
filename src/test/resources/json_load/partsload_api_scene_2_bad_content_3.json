@@ -1,0 +1,18 @@
+{
+  "values": [
+    {
+      "partId": 12345,
+      "partName": "This Record should not appear in the database",
+      "characteristics": {
+        "values": [
+          {
+            "key": "1234",
+            "keyName": "string",
+            "value": "4.6",
+            "valueText": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

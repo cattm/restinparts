@@ -1,0 +1,19 @@
+{
+  "values": [
+    {
+      "partId": "SINGLE",
+      "_link": {
+        "rel": false,
+        "method": "self",
+        "href": "http://localhost:8085/parts/SINGLE"
+      }
+    }
+  ],
+  "_links": [
+    {
+      "href": "/parts?pageNumber=1&characteristics=SINGLE_KEY|ONE",
+      "method": "self",
+      "rel": true
+    }
+  ]
+}

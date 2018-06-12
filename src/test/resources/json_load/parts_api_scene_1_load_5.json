@@ -1,0 +1,168 @@
+{
+  "values": [
+    {
+      "partId": "FOUR_PAGE_11",
+      "partName": "SC12MC HIGH PERF C11 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technoglogy",
+            "value": "FOUR",
+            "valueText": " Any 11"
+          },
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technoglogy",
+            "value": "LARGE",
+            "valueText": " Any 11"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_12",
+	  "partName": "SC12MC HIGH PERF C12 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 12"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_13",
+      "partName": "SC12MC HIGH PERF C13 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 13"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_14",
+      "partName": "SC12MC HIGH PERF C14 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 14"
+          },
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technoglogy",
+            "value": "LARGE",
+            "valueText": " Any 14"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_15",
+      "partName": "SC12MC HIGH PERF C15 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 15"
+          },
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technoglogy",
+            "value": "LARGE",
+            "valueText": " Any 15"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_16",
+      "partName": "SC12MC HIGH PERF C16 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 16"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_17",
+      "partName": "SC12MC HIGH PERF C17 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 17"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_18",
+      "partName": "SC12MC HIGH PERF C18 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 18"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_19",
+      "partName": "SC12MC HIGH PERF C19 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 19"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "FOUR_PAGE_20",
+      "partName": "SC12MC HIGH PERF C20 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "4_PAGE",
+            "keyName": "Technology",
+            "value": "FOUR",
+            "valueText": "Any 20"
+          },
+          {
+            "key": "LARGE_PAGE",
+            "keyName": "Technoglogy",
+            "value": "LARGE",
+            "valueText": " Any 20"
+          }
+        ]
+      }
+    }
+ ]
+}

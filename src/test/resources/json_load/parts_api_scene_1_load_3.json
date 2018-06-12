@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "partId": "PAGE_1_5",
+      "partName": "SC12MC HIGH PERF C1 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "TWO",
+            "valueText": " 4 or 5"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FIVE",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "SIX",
+            "valueText": "1"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "PAGE_2_1",
+      "partName": "SC12MC HIGH PERF C1 HPK SVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "TWO",
+            "valueText": "5 or 1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "FIVE",
+            "valueText": "1"
+          },
+	  {
+            "key": "PAGE_BOUNDARY",
+            "keyName": "Foundry",
+            "value": "SIX",
+            "valueText": "1"
+          }
+        ]
+      }
+    }
+ ]
+}

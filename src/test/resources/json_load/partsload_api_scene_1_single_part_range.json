@@ -1,0 +1,132 @@
+{
+  "values": [
+    {
+      "partId": "HFX-WHEEL-20170131",
+      "partName": "Honda FX 200  Wheel",
+      "characteristics": {
+        "values": [
+          {
+            "key": "A",
+            "keyName": "Alloy Billet 1",
+            "value": "17L",
+            "valueText": "17 inch Low profile"
+          },
+          {
+            "key": "B",
+            "keyName": "Alloy Billet 2",
+            "value": "18L",
+            "valueText": "18 inch Low profile"
+          },
+          {
+            "key": "CDEFAZ1590abpxyz -/ \\ ? ~ ¬ # ||\\",
+            "keyName": "",
+            "value": "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM0123456789",
+            "valueText": "`¬!£$%^&*()-+|\\:;@'~#<>,.?/"
+          },
+          {
+            "key": "C",
+            "keyName": "Alloy Billet 3",
+            "value": "qwerty \n\t\r\b qwerty",
+            "valueText": "21 inch normal profile"
+          },
+          {
+            "key": "D",
+            "keyName": "Alloy Billet 4",
+            "value": "13",
+            "valueText": "13 inch Solid"
+          },
+          {
+            "key": "D",
+            "keyName": "Alloy Billet 4",
+            "value": "13",
+            "valueText": "13 inch Solid"
+          },
+          {
+            "key": "",
+            "keyName": "",
+            "value": "",
+            "valueText": ""
+          },
+          {
+            "key": "<h4>F</h4>",
+            "keyName": "É",
+            "value": "Ð",
+            "valueText": "Ж"
+          },
+          {
+            "key": "123456789-123456789-0123456789-0123456789-abcdefghijklmnopqrstuvwxyz\nABCDEFGHIJKLMNOPQURSTUVWXYZ",
+            "keyName": "É",
+            "value": "Ð",
+            "valueText": "Ж"
+          },
+          {
+            "key": "<productId>TS23LB501</productId>",
+            "keyName": "<productName>SC9 HIGH DEN LIBRARY TAPPED LVT</productName>",
+            "value": "4",
+            "valueText": "<partName>ESSL COMPILER SOURCE CODE</partName>"
+          },
+          {
+            "key": "Testing a Very long string",
+            "keyName": "MoreThan256abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+            "value": "over 500",
+            "valueText": "Just to check we can put in a reasonable length string"
+          },
+          {
+            "key": "K",
+            "keyName": "Steel Rim",
+            "value": "12",
+            "valueText": "12 inch Wired"
+          },
+          {
+            "key": "L",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "L",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "L",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "M",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "N",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "O",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "P",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "Q",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "values": [
+    {
+      "partId": "FM-WHEEL-20170131",
+      "partName": "Ford Mustang Wheel",
+      "characteristics": {
+        "values": [
+          {
+            "key": "A",
+            "keyName": "Alloy Billet",
+            "value": "17L",
+            "valueText": "17 inch Low profile"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "HFX-WHEEL-20170131",
+      "partName": "Honda FX 200  Wheel",
+      "characteristics": {
+        "values": [
+          {
+            "key": "A",
+            "keyName": "Alloy Billet 1",
+            "value": "17L",
+            "valueText": "17 inch Low profile"
+          },
+          {
+            "key": "B",
+            "keyName": "Alloy Billet 2",
+            "value": "18L",
+            "valueText": "18 inch Low profile"
+          },
+          {
+            "key": "CDEFAZ1590abpxyz -/ \\ ? ~ ¬ # ||\\",
+            "keyName": "",
+            "value": "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM0123456789",
+            "valueText": "`¬!£$%^&*()-+|\\:;@'~#<>,.?/"
+          },
+          {
+            "key": "C",
+            "keyName": "Alloy Billet 3",
+            "value": "",
+            "valueText": "21 inch normal profile"
+          },
+          {
+            "key": "D",
+            "keyName": "Alloy Billet 4",
+            "value": "13",
+            "valueText": "13 inch Solid"
+          },
+          {
+            "key": "D",
+            "keyName": "Alloy Billet 4",
+            "value": "13",
+            "valueText": "13 inch Solid"
+          },
+          {
+            "key": "",
+            "keyName": "",
+            "value": "",
+            "valueText": ""
+          },
+          {
+            "key": "<h4>F</h4>",
+            "keyName": "É",
+            "value": "Ð",
+            "valueText": "Ж"
+          },
+          {
+            "key": "123456789-123456789-0123456789-0123456789-abcdefghijklmnopqrstuvwxyz\nABCDEFGHIJKLMNOPQURSTUVWXYZ",
+            "keyName": "É",
+            "value": "Ð",
+            "valueText": "Ж"
+          },
+          {
+            "key": "<productId>TS23LB501</productId>",
+            "keyName": "<productName>SC9 HIGH DEN LIBRARY TAPPED LVT</productName>",
+            "value": "4",
+            "valueText": "<partName>ESSL COMPILER SOURCE CODE</partName>"
+          },
+          {
+            "key": "Testing a Very long string",
+            "keyName": "MoreThan256abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+            "value": "over 500",
+            "valueText": "Just to check we can put in a reasonable length string"
+          },
+          {
+            "key": "K",
+            "keyName": "Steel Rim",
+            "value": "12",
+            "valueText": "12 inch Wired"
+          },
+          {
+            "key": "L",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "L",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "L",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "M",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "N",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "O",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "P",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          },
+          {
+            "key": "Q",
+            "keyName": "Steel Rim",
+            "value": "13",
+            "valueText": "13 inch Wired"
+          }
+        ]
+      }
+    },
+    {
+       "partId" : "TS40LH105",
+       "partName" : "SC12MC HIGH PERF C1 HPK LVT",
+      "characteristics": {
+        "values": [
+           {
+           		"key" : "Z_FOUNDRY",
+           		"keyName" : "Foundry",
+           		"value" : "TS",
+           		"valueText" : "Very valuable text"
+           }, 
+           {
+                "key" : "Z_PROD_FAMILY",
+                "keyName" : "Product Family",
+                "value" : "22",
+                "valueText" : ""
+            }, 
+            {
+                "key" : "Z_MARKET_TYPE",
+                "keyName" : "Market Type",
+                "value" : "FSP",
+                "valueText" : ""
+            }
+        ]
+      }
+    },
+    {
+      "partId": "TS40LH106",
+      "partName": "SC12MC HIGH PERF C1 HPK HVT",
+      "characteristics": {
+        "values": [
+          {
+            "key": "T20000",
+            "keyName": "HPK",
+            "value": "FFB34",
+            "valueText": "Build DX90-DC-01001"
+          },
+          {
+            "key": "T20001",
+            "keyName": "HPKg",
+            "value": "IE11",
+            "valueText": "Build DX90-DC-01002"
+          }
+        ]
+      }
+    },
+    {
+      "partId": "TH-WHEEL-20170201",
+      "partName": "Toyota Hilux Wheels",
+      "characteristics": {
+        "values": [
+            {
+            "key": "A",
+            "keyName": "Alloy Billet 1",
+            "value": "17L",
+            "valueText": "17 inch Low profile"
+          },
+          {
+            "key": "B",
+            "keyName": "Steel Rim",
+            "value": "17N",
+            "valueText": "17 inch Low profile"
+          },
+          {
+            "key": "C",
+            "keyName": "Alloy Billet 2",
+            "value": "18N",
+            "valueText": "18 inch profile"
+          },
+          {
+            "key": "D",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          },
+          {
+            "key": "E",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          },
+          {
+            "key": "F",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          },
+          {
+            "key": "G",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          },
+          {
+            "key": "H",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          },
+          {
+            "key": "I",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          },
+          {
+            "key": "J",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          },
+          {
+            "key": "K",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          },
+          {
+            "key": "A",
+            "keyName": "string",
+            "value": "string",
+            "valueText": "string"
+          }
+        ]
+      }
+    }
+  
+  ]
+}

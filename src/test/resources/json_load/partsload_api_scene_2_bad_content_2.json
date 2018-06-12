@@ -1,0 +1,14 @@
+{
+      "partId": "Malformed Payload",
+      "partName": "This Record should not appear in the database",
+      "characteristics": {
+        "values": [
+          {
+            "key": "@@",
+            "keyName": "string",
+            "value": "4.6",
+            "valueText": "string"
+          }
+        ]
+      }
+}

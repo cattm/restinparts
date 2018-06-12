@@ -1,0 +1,13 @@
+{
+  "values": [
+    {
+      "partId": "BlankPT ID",
+      "partName": "This is a part with no characteristics at all",
+      "characteristics": {
+        "values": [
+         
+        ]
+      }
+    }
+  ]
+}
